@@ -1,4 +1,6 @@
 # Model-of-heart-rate-and-blood-pressure-variability
+Dissertation project
+
 Implementing deBoer's model and comparing using recordings from subjects with cardiovascular diseases.
 
 In order to run a simulation, please clone the repository on your local machine, and run the file Heart_Rate_Blood_Pressure_Variability.py
